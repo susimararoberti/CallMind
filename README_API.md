@@ -345,3 +345,5 @@ Este é o backend da aplicação API CallMind -> Seu objetivo é fornecer alguma
 <span>[ ] (quando não há nenhuma experiência cadastrada)</span><br/><br/>
 <p>Formato de Erro - Status 401</p>
 <p>"Missing authorization header" (quando não foi informado o token na Authorization)</p><br/>
+
+
